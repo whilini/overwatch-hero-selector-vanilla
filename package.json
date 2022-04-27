@@ -1,0 +1,25 @@
+{
+  "name": "overwatch-hero-selector-vanilla",
+  "version": "1.0.0",
+  "description": "오버워치 캐릭터 선택",
+  "main": "main.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whilini/overwatch-hero-selector-vanilla.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whilini/overwatch-hero-selector-vanilla/issues"
+  },
+  "homepage": "https://github.com/whilini/overwatch-hero-selector-vanilla#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.51.0"
+  }
+}

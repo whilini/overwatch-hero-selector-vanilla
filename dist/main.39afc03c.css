@@ -5,6 +5,7 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
+
 .container {
   padding: 50px 0;
 }
@@ -137,7 +138,6 @@ body {
 .container .heroes .hero:nth-child(32) .image {
   background-image: url("https://raw.githubusercontent.com/ParkYoungWoong/overwatch-hero-selector-vanilla/master/images/hero32.png");
 }
-
 .container .logo {
   max-width: 300px;
   margin: 0 auto;
@@ -146,3 +146,5 @@ body {
 .container .logo img {
   width: 100%;
 }
+
+/*# sourceMappingURL=/main.39afc03c.css.map */
